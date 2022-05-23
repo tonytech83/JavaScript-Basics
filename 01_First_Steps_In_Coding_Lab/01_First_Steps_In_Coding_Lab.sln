@@ -5,6 +5,8 @@ VisualStudioVersion = 17.2.32516.85
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "01_HelloSoftUni", "01_HelloSoftUni\01_HelloSoftUni.njsproj", "{97339DA9-6427-4967-B25F-23C2519A7D40}"
 EndProject
+Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "02_Nums_1_to_10", "02_Nums_1_to_10\02_Nums_1_to_10.njsproj", "{EA2E403B-8A93-4223-8CB8-BC6511AC8D0C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{97339DA9-6427-4967-B25F-23C2519A7D40}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{97339DA9-6427-4967-B25F-23C2519A7D40}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{97339DA9-6427-4967-B25F-23C2519A7D40}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EA2E403B-8A93-4223-8CB8-BC6511AC8D0C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA2E403B-8A93-4223-8CB8-BC6511AC8D0C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA2E403B-8A93-4223-8CB8-BC6511AC8D0C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA2E403B-8A93-4223-8CB8-BC6511AC8D0C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
