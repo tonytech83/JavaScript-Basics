@@ -1,0 +1,9 @@
+{
+  "name": "01_hello-soft-uni",
+  "version": "0.0.0",
+  "description": "01_HelloSoftUni",
+  "main": "app.js",
+  "author": {
+    "name": ""
+  }
+}
