@@ -1,0 +1,3 @@
+C:\jsProjects\JavaScript-Basics\01_First_Steps_In_Coding_Lab\03_Square_Area\obj\Debug\03_Square_Area.njsproj.AssemblyReference.cache
+C:\jsProjects\JavaScript-Basics\01_First_Steps_In_Coding_Lab\03_Square_Area\obj\Debug\03_Square_Area.njsproj.CoreCompileInputs.cache
+C:\jsProjects\JavaScript-Basics\01_First_Steps_In_Coding_Lab\03_Square_Area\bin\Microsoft.NodejsTools.WebRole.dll

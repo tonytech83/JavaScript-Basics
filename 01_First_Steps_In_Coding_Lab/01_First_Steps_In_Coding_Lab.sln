@@ -7,6 +7,10 @@ Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "01_HelloSoftUni", "01_Hello
 EndProject
 Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "02_Nums_1_to_10", "02_Nums_1_to_10\02_Nums_1_to_10.njsproj", "{EA2E403B-8A93-4223-8CB8-BC6511AC8D0C}"
 EndProject
+Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "03_Square_Area", "03_Square_Area\03_Square_Area.njsproj", "{E08417D3-6A82-482B-9497-51E85059BF94}"
+EndProject
+Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "Calculator", "Calculator\Calculator.njsproj", "{62381365-20E3-4A59-8BCF-1011B7FA4FCF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{EA2E403B-8A93-4223-8CB8-BC6511AC8D0C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EA2E403B-8A93-4223-8CB8-BC6511AC8D0C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EA2E403B-8A93-4223-8CB8-BC6511AC8D0C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E08417D3-6A82-482B-9497-51E85059BF94}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E08417D3-6A82-482B-9497-51E85059BF94}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E08417D3-6A82-482B-9497-51E85059BF94}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E08417D3-6A82-482B-9497-51E85059BF94}.Release|Any CPU.Build.0 = Release|Any CPU
+		{62381365-20E3-4A59-8BCF-1011B7FA4FCF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62381365-20E3-4A59-8BCF-1011B7FA4FCF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62381365-20E3-4A59-8BCF-1011B7FA4FCF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62381365-20E3-4A59-8BCF-1011B7FA4FCF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,0 +1,3 @@
+C:\jsProjects\JavaScript-Basics\01_First_Steps_In_Coding_Lab\Calculator\obj\Debug\Calculator.njsproj.AssemblyReference.cache
+C:\jsProjects\JavaScript-Basics\01_First_Steps_In_Coding_Lab\Calculator\obj\Debug\Calculator.njsproj.CoreCompileInputs.cache
+C:\jsProjects\JavaScript-Basics\01_First_Steps_In_Coding_Lab\Calculator\bin\Microsoft.NodejsTools.WebRole.dll
